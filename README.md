@@ -13,7 +13,7 @@
 
 ## Challenge: B2W User Profile
 
-***Stack**: React, Sass*<br/>
+***Stack**: React*<br/>
 
 The goal is to create a client-side application to consume an API and to show its data in the user profile. This application must work on the latests browsers.
 
@@ -27,7 +27,6 @@ This is the [API endpoint](http://www.mocky.io/v2/5a5e38f3330000b0261923a5). Or 
 
 ## Requirements
 
-* Use a CSS preprocessor, preferably Sass (feel free to use a CSS lib/framework)
 * Application must have great user experience, no matter the device
 * You can use Angular or React
 * Create a build of your project in a folder called 'dist'
