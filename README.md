@@ -23,7 +23,7 @@ Layout is already defined:
 
 [PSD file](https://github.com/AndersonMamede/challenge-b2w-user-profile/blob/master/layout-psd.psd) is also available.
 
-This is the [API endpoint](http://www.mocky.io/v2/5a5e38f3330000b0261923a5).
+This is the [API endpoint](http://www.mocky.io/v2/5a5e38f3330000b0261923a5). Or use this [mock data](https://github.com/AndersonMamede/challenge-b2w-user-profile/blob/master/mock-data.json).
 
 ## Requirements
 
