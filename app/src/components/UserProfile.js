@@ -1,6 +1,8 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 import styles from './UserProfile.module.css';
+import { userDataType } from './../types';
 
 const UserProfile = ({ user }) => (
   <section>
@@ -15,5 +17,9 @@ const UserProfile = ({ user }) => (
     </div>
   </section>
 );
+
+UserProfile.propTypes = {
+  user: userDataType.isRequired
+};
 
 export default UserProfile;

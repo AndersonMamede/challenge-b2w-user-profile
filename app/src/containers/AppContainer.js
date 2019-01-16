@@ -4,7 +4,7 @@ import queryString from 'query-string';
 import Favicon from 'react-favicon';
 import PropTypes from 'prop-types';
 
-import styles from './AppContainer.module.css';
+import './AppContainer.module.css';
 import { userDataType } from './../types';
 import UserList from './../components/UserList.js';
 import UserProfile from './../components/UserProfile.js';
