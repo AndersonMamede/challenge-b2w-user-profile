@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 import styles from './UserProfile.module.css';
 import { userDataType } from './../types';
