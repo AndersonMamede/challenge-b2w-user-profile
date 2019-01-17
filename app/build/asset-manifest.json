@@ -1,14 +1,14 @@
 {
-  "main.css": "/challenge-b2w-user-profile/app/build/static/css/main.9de86cdb.chunk.css",
-  "main.js": "/challenge-b2w-user-profile/app/build/static/js/main.a2088d3d.chunk.js",
-  "main.js.map": "/challenge-b2w-user-profile/app/build/static/js/main.a2088d3d.chunk.js.map",
-  "static/js/1.034c60d9.chunk.js": "/challenge-b2w-user-profile/app/build/static/js/1.034c60d9.chunk.js",
-  "static/js/1.034c60d9.chunk.js.map": "/challenge-b2w-user-profile/app/build/static/js/1.034c60d9.chunk.js.map",
+  "main.css": "/challenge-b2w-user-profile/app/build/static/css/main.6279a241.chunk.css",
+  "main.js": "/challenge-b2w-user-profile/app/build/static/js/main.ac85e594.chunk.js",
+  "main.js.map": "/challenge-b2w-user-profile/app/build/static/js/main.ac85e594.chunk.js.map",
+  "static/js/1.393b1ce4.chunk.js": "/challenge-b2w-user-profile/app/build/static/js/1.393b1ce4.chunk.js",
+  "static/js/1.393b1ce4.chunk.js.map": "/challenge-b2w-user-profile/app/build/static/js/1.393b1ce4.chunk.js.map",
   "runtime~main.js": "/challenge-b2w-user-profile/app/build/static/js/runtime~main.887ae5b4.js",
   "runtime~main.js.map": "/challenge-b2w-user-profile/app/build/static/js/runtime~main.887ae5b4.js.map",
   "static/media/favicon.ico": "/challenge-b2w-user-profile/app/build/static/media/favicon.43654129.ico",
-  "static/css/main.9de86cdb.chunk.css.map": "/challenge-b2w-user-profile/app/build/static/css/main.9de86cdb.chunk.css.map",
+  "static/css/main.6279a241.chunk.css.map": "/challenge-b2w-user-profile/app/build/static/css/main.6279a241.chunk.css.map",
   "index.html": "/challenge-b2w-user-profile/app/build/index.html",
-  "precache-manifest.08df42f5607cf63443abe89cbae9653f.js": "/challenge-b2w-user-profile/app/build/precache-manifest.08df42f5607cf63443abe89cbae9653f.js",
+  "precache-manifest.66c754ee7455eb4a4e134c3015b20c42.js": "/challenge-b2w-user-profile/app/build/precache-manifest.66c754ee7455eb4a4e134c3015b20c42.js",
   "service-worker.js": "/challenge-b2w-user-profile/app/build/service-worker.js"
 }
