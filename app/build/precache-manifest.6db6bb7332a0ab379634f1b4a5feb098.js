@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/challenge-b2w-user-profile/app/build/static/js/runtime~main.887ae5b4.js"
   },
   {
-    "revision": "19eee82013259d9c1a0c",
-    "url": "/challenge-b2w-user-profile/app/build/static/js/main.19eee820.chunk.js"
+    "revision": "be963bc55f0d270f6057",
+    "url": "/challenge-b2w-user-profile/app/build/static/js/main.be963bc5.chunk.js"
   },
   {
     "revision": "2f991fb211d00b9a70f1",
     "url": "/challenge-b2w-user-profile/app/build/static/js/1.2f991fb2.chunk.js"
   },
   {
-    "revision": "19eee82013259d9c1a0c",
-    "url": "/challenge-b2w-user-profile/app/build/static/css/main.5494f4fa.chunk.css"
+    "revision": "be963bc55f0d270f6057",
+    "url": "/challenge-b2w-user-profile/app/build/static/css/main.f05f9844.chunk.css"
   },
   {
-    "revision": "b4c3725a886e7bf46b271158f38a4ee1",
+    "revision": "c2f4b329576e27d75b9dc5d569aaa82d",
     "url": "/challenge-b2w-user-profile/app/build/index.html"
   }
 ];
