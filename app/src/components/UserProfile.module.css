@@ -1,26 +1,92 @@
-.personal{
+.profile{
+  letter-spacing: 2.7px;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.section_personal{
   float: left;
-  width: 36%;
+  width: 37%;
   min-height: 100vh;
-  padding: 80px 7.5%  90px 7.5%;
   text-align: center;
   background: #333;
   color: #FFF;
 }
 
-.experience{
-  float: left;
-  width: 64%;
-  height: 100%;
+.personal_container{
+  padding: 45px 5%;
 }
 
-.photo{
-  max-width: 100%;
-}
-
-.user_name{
-  font-size: 55px;
-  font-weight: 700;
-  letter-spacing: 1pt;
+.fullname{
+  margin-top: 10px;
+  font-size: 4.3vw;
+  font-weight: 900;
+  word-spacing: 100vw;
+  letter-spacing: 3.3px;
+  line-height: 1.2;
   text-transform: uppercase;
+}
+
+.profession{
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.separator{
+  height: 3px;
+  width: 92%;
+  margin: 0 auto;
+  border: none;
+  background: #9E9E9E;
+}
+
+.description_data{
+  max-width: 285px;
+  margin: 0 auto;
+}
+
+.section_personal .subtitle{
+  display: inline-block;
+  padding: 0 2.7vw 0.2vw 2.7vw;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #FFF;
+}
+
+.box_contact,
+.box_skills{
+  margin-top: 55px;
+}
+
+.contact_data{
+  max-width: 320px;
+  margin: 0 auto;
+}
+
+.skill_item:first-child{
+  margin-top: 15px;
+}
+
+.section_history{
+  float: left;
+  width: 63%;
+  height: 100%;
+  padding: 0 5vw;
+}
+
+@media (max-width: 768px){
+  .section_personal{
+    float: none;
+    width: 100%;
+  }
+  
+  .section_history{
+    float: none;
+    width: 100%;
+  }
+
+  .fullname{
+    font-size: 40px;
+  }
 }
