@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/challenge-b2w-user-profile/app/build/precache-manifest.6db6bb7332a0ab379634f1b4a5feb098.js"
+  "/challenge-b2w-user-profile/app/build/precache-manifest.79c1436ef87c8c9acf0bb6dde65e4903.js"
 );
 
 workbox.clientsClaim();
