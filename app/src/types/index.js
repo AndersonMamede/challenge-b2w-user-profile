@@ -16,7 +16,7 @@ const userDataType = shape({
     name: string.isRequired,
     value: string.isRequired,
   })).isRequired,
-  experience: arrayOf(shape({
+  experiences: arrayOf(shape({
     name: string.isRequired,
     date: string.isRequired,
     description: string.isRequired,
