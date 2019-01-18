@@ -6,8 +6,8 @@ const userDataType = shape({
   profession: string.isRequired,
   description: string.isRequired,
   contact: shape({
-    tel: string.isRequired,
-    cel: string.isRequired,
+    tel: string,
+    cel: string,
     address: string.isRequired,
     website: string.isRequired,
     mail: string.isRequired,

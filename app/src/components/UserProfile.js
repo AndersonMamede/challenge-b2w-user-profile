@@ -23,9 +23,9 @@ const UserProfile = ({ user }) => (
         <div className={styles.box_contact}>
           <h3 className={styles.subtitle}>CONTACT</h3>
           <div className={styles.contact_data}>
-            {user.contact.tel}<br/>
-            {user.contact.cel}<br/>
-            <br/>
+            {user.contact.tel ? <div>{user.contact.tel}</div> : null}
+            {user.contact.cel ? <div>{user.contact.cel}</div> : null}
+            {user.contact.tel || user.contact.tel ? <br/> : null}
             {user.contact.address}<br/>
             <br/>
             {user.contact.website}<br/>
