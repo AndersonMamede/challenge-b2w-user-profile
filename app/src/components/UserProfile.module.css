@@ -1,19 +1,17 @@
 .profile{
-  display: flex;
+  display: flex; 
   letter-spacing: 2.7px;
   font-size: 17px;
   line-height: 1.5;
 }
 
 .section_personal{
-  float: left;
   width: 37%;
   text-align: center;
   color: #FFF;
 }
 
 .section_history{
-  float: left;
   width: 63%;
   padding: 0 5vw;
   background: #FFF;
@@ -86,16 +84,15 @@
 }
 
 @media (max-width: 768px){
-  .section_personal{
-    float: none;
+  .profile{
+    display: block;
+  }
+
+  .section_personal,
+  .section_history{
     width: 100%;
   }
   
-  .section_history{
-    float: none;
-    width: 100%;
-  }
-
   .fullname{
     font-size: 40px;
   }
