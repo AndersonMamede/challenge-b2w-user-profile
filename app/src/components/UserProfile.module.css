@@ -1,4 +1,5 @@
 .profile{
+  display: flex;
   letter-spacing: 2.7px;
   font-size: 17px;
   line-height: 1.5;
@@ -7,10 +8,15 @@
 .section_personal{
   float: left;
   width: 37%;
-  min-height: 100vh;
   text-align: center;
-  background: #333;
   color: #FFF;
+}
+
+.section_history{
+  float: left;
+  width: 63%;
+  padding: 0 5vw;
+  background: #FFF;
 }
 
 .personal_container{
@@ -77,13 +83,6 @@
 
 .skill_item:first-child{
   margin-top: 15px;
-}
-
-.section_history{
-  float: left;
-  width: 63%;
-  height: 100%;
-  padding: 0 5vw;
 }
 
 @media (max-width: 768px){
