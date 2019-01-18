@@ -1,70 +1,9 @@
 [
    {
       "image":"https://raw.githubusercontent.com/AndersonMamede/challenge-b2w-user-profile/master/photo.png",
-      "name":"Anderson Mamede",
-      "profession":"Full-stack Developer",
-      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia bibendum purus, at aliquet velit semper id. Aenean pharetra est.",
-      "contact":{
-         "tel":"055-193456-0000",
-         "cel":"055-193456-0000",
-         "address":"162 Tincidunt nunc pulvinar. Sapien et",
-         "website":"https://blog.andersonmamede.com.br/",
-         "mail":"mamede.anderson@gmail.com"
-      },
-      "skills":[
-         {
-            "name":"Front End",
-            "value":"90%"
-         },
-         {
-            "name":"Back End",
-            "value":"90%"
-         },
-         {
-            "name":"Database",
-            "value":"90%"
-         }
-      ],
-      "experience":[
-         {
-            "name":"Front End Developer @ HillSong",
-            "date":"January 2014",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
-         },
-         {
-            "name":"PHP Developer @ Creative Wizards",
-            "date":"March 2012 - December 2013",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
-         },
-         {
-            "name":"UX Designer @ Graphics MasterMinds",
-            "date":"January 2012 - February 2012",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
-         }
-      ],
-      "education":[
-         {
-            "name":"Web Developer @ Harvard University",
-            "date":"August 2006 - May 2010",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
-         },
-         {
-            "name":"Colorado Springs College",
-            "date":"August 2003 - May 2006",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
-         },
-         {
-            "name":"UX Designer @ Graphics MasterMinds",
-            "date":"January 2012 - February 2012",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley."
-         }
-      ]
-   },
-   {
-      "image":"https://raw.githubusercontent.com/AndersonMamede/challenge-b2w-user-profile/master/photo.png",
       "name":"Brian Walker",
       "profession":"Web Developer",
-      "description":"27-year old web developer from Colorado Springs with 5+ years of work experience in various fields",
+      "description":"27-year old web developer from Colorado Springs with 5+ years of work experience in various fields.",
       "contact":{
          "tel":"123-456-7890",
          "cel":"012-345-6789",
@@ -86,7 +25,7 @@
             "value":"75%"
          }
       ],
-      "experience":[
+      "experiences":[
          {
             "name":"Front End Developer @ HillSong",
             "date":"January 2014",
