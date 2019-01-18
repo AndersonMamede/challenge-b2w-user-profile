@@ -1,0 +1,26 @@
+.text_list{
+  margin: 75px 0;
+  list-style: none;
+}
+
+.title{
+  padding-bottom: 3px;
+  font-size: 25px;
+  text-transform: uppercase;
+  border-bottom: 3px solid #313131;
+}
+
+.item{
+  margin-top: 35px;
+  list-style: none;
+}
+
+.name{
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.date{
+  font-weight: bold;
+}
