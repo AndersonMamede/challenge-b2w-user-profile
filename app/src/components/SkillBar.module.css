@@ -1,0 +1,24 @@
+.skillbar{
+  margin-top: 25px;
+  text-transform: uppercase;
+}
+
+.skillbar:first-child{
+  margin-top: 5px;
+}
+
+.progressbar{
+  position: relative;
+  max-width: 300px;
+  height: 24px;
+  margin: 4px auto 0 auto;
+  border: 2px solid #FFF;
+}
+
+.value{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background: #FFF;
+}
