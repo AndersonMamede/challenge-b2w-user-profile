@@ -28,8 +28,8 @@ const UserProfile = ({ user }) => (
             {user.contact.tel || user.contact.tel ? <br/> : null}
             {user.contact.address}<br/>
             <br/>
-            {user.contact.website}<br/>
-            {user.contact.mail}
+            <a className={styles.website} href={user.contact.website}>{user.contact.website}</a><br/>
+            <a className={styles.email} href={`mailto:${user.contact.mail}`}>{user.contact.mail}</a>
           </div>
         </div>
         <div className={styles.box_skills}>

@@ -64,6 +64,17 @@
   margin: 0 auto;
 }
 
+.website,
+.email{
+  color: #FFF;
+  text-decoration: none;
+}
+
+.website:hover,
+.email:hover{
+  text-decoration: underline;
+}
+
 .skill_item:first-child{
   margin-top: 15px;
 }
