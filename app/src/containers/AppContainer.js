@@ -6,6 +6,7 @@ import PropTypes from 'prop-types';
 
 import './AppContainer.module.css';
 import { userDataType } from './../types';
+import ProjectBadge from './../components/ProjectBadge.js';
 import UserList from './../components/UserList.js';
 import UserProfile from './../components/UserProfile.js';
 
@@ -65,6 +66,7 @@ class AppContainer extends React.Component {
       <BrowserRouter>
         <main>
           <Favicon url={favicon}/>
+          <ProjectBadge url="https://github.com/AndersonMamede/challenge-b2w-user-profile/" />
           <Route render={this.handleRenderUserList}/>
           <Route render={this.handleRenderUserProfile}/>
         </main>
