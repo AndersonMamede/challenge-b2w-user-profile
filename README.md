@@ -1,6 +1,4 @@
-***Main project:***
-&nbsp;&nbsp;
-[**`challenges-accepted`**](https://github.com/AndersonMamede/challenges-accepted)
+This project was made to learn/practice new technologies and it was based on a real job challenge from a real company. **Main project:** [**`challenges-accepted`**](https://github.com/AndersonMamede/challenges-accepted)
 
 ***My response:***
 &nbsp;&nbsp;
@@ -29,5 +27,5 @@ This is the [API endpoint](http://www.mocky.io/v2/5a5e38f3330000b0261923a5). Or 
 
 * Application must have great user experience, no matter the device
 * You can use Angular or React
-* Create a build of your project in a folder called 'dist'
+* Create a build of your project in a folder called 'dist' or 'build'
 * Don't forget to add instructions on how to deploy and run your project
