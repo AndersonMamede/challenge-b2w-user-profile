@@ -1,13 +1,12 @@
-This project was made to learn/practice new technologies and it was based on a real job challenge from a real company. **Main project:** [**`challenges-accepted`**](https://github.com/AndersonMamede/challenges-accepted)
-
-***My response:***
-&nbsp;&nbsp;
+> This project was developed by me while I learn and practice new technologies and it is based on a real job challenge from a real company.<br/>
+> **Companny:** [`B2W`](https://ri.b2w.digital/)<br/>
+> **Original challenge description:** [`link`](https://github.com/b2w-marketplace/code-challenge)<br/>
+> **My response:**
+&nbsp;
 [**`Run App/Demo`**](https://blog.andersonmamede.com.br/challenge-b2w-user-profile/app/build/)
-&nbsp;&nbsp;
-[**`Source Code`**](https://github.com/AndersonMamede/challenge-b2w-user-profile/tree/master/app)
-
-> *Companny: [B2W](https://ri.b2w.digital/)*<br/>
-> *Original challenge description: [link](https://github.com/b2w-marketplace/code-challenge)*<br/>
+&nbsp;
+[**`Source Code`**](https://github.com/AndersonMamede/challenge-b2w-user-profile/tree/master/app)<br/>
+> **Main project:** [**`challenges-accepted`**](https://github.com/AndersonMamede/challenges-accepted)
 
 ## Challenge: B2W User Profile
 
